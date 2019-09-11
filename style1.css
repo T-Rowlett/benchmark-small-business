@@ -5,7 +5,7 @@ header{
     font-size: 2rem; 
     border-radius: 10pc;
 }
-div {
+#intro {
     display: flex;
     flex-wrap: wrap;
     margin: 1rem auto; 
