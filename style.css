@@ -19,7 +19,7 @@ html {
     margin: .5rem;
   }
   div {
-     display: flex;
+    display: flex;
     flex-wrap: wrap;
     margin: 1rem auto; 
     text-align: center;

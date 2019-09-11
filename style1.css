@@ -6,7 +6,12 @@ header{
     border-radius: 10pc;
 }
 div {
-    background-color: aqua;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 1rem auto; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
 }
 p {
     max-width: 30rem;
