@@ -3,7 +3,15 @@ header{
     min-height: 2rem;
     text-align: center; 
     font-size: 2rem; 
+    border-radius: 10pc;
+}
+p {
+    max-width: 30rem;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem;
+    text-align: center;
 }
 html {
-    color: gray;
+    background-color: gray;
 }
