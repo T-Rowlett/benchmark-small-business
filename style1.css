@@ -1,0 +1,9 @@
+header{
+    background-color: red;
+    min-height: 2rem;
+    text-align: center; 
+    font-size: 2rem; 
+}
+html {
+    color: gray;
+}
