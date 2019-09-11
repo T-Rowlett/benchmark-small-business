@@ -2,8 +2,8 @@ html {
     background-color: grey;
   }
   #bfgpic {
-    min-width: 50%;
-    max-width: 50%;
+    /* min-width: 50%;
+    max-width: 50%; */
   }
   header {
     background-color: red;
