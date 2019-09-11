@@ -2,6 +2,7 @@ html {
     background-color: grey;
   }
   header {
+    
     background-color: red;
     min-height: 2rem;
     text-align: center; 
@@ -9,7 +10,8 @@ html {
   }
   #theheader {
     min-height: 4rem;
-    font-size: 3rem
+    font-size: 3rem;
+    border-radius: 10pc;
   }
   #meleeimg {
     align-items: center;
