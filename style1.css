@@ -20,6 +20,19 @@ p {
     margin: 1rem;
     text-align: center;
 }
+h2 {
+    border: 1px solid black;
+    border-radius: 10pc;
+    padding: 5px;
+}
+#one-handed {
+    max-width: 15rem;
+}
+#two-handed {
+    display: inline-block;
+    max-width: 15rem;
+    background-color: antiquewhite;
+}
 html {
     background-color: gray;
 }
