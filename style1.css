@@ -30,8 +30,7 @@ h2 {
 }
 #two-handed {
     display: inline-block;
-    max-width: 15rem;
-    background-color: antiquewhite;
+    max-width: 15rem; 
 }
 html {
     background-color: gray;
