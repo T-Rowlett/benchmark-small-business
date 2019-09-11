@@ -1,0 +1,31 @@
+html {
+    background-color: grey;
+  }
+  #bfgpic {
+    
+    min-width: 50%;
+  }
+  header {
+    background-color: red;
+    min-height: 2rem;
+    text-align: center; 
+    font-size: 2rem; 
+  }
+  #theheader {
+    min-height: 4rem;
+    font-size: 3rem
+  }
+  #meleeimg {
+    align-items: center;
+    justify-content: center;
+    min-height: 75%;
+    margin: .5rem;
+  }
+  div {
+     display: flex;
+    flex-wrap: wrap;
+    margin: 1rem auto; 
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
