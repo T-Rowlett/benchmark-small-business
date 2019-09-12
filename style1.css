@@ -26,6 +26,7 @@ p {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 h2 {
+    background-color: red;
     border: 1px solid black;
     border-radius: 10pc;
     padding: 5px;
