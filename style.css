@@ -9,6 +9,14 @@ html {
     border-radius: 10pc;
     font-family: cursive;
   }
+  footer{
+    background-color: red;
+    min-height: 2rem;
+    text-align: center; 
+    font-size: 2rem; 
+    border-radius: 10pc;
+    font-family: cursive;
+  }
   #theheader {
     min-height: 4rem;
     font-size: 3rem;
