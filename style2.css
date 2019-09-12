@@ -29,3 +29,10 @@ html {
     grid-gap: 5px;
     grid-template-columns: 1fr 1fr 1fr;
 }
+button {
+    font-size: 15px;
+    border-radius: 5pc;
+    min-height: 2.5pc;
+    border-color: red;
+    background-color: lightgrey;
+  }
