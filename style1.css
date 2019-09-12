@@ -20,16 +20,20 @@ p {
     margin: 1rem;
     text-align: center;
 }
+#parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
 h2 {
     border: 1px solid black;
     border-radius: 10pc;
     padding: 5px;
+    max-width: 15rem;
 }
 #one-handed {
     max-width: 15rem;
 }
 #two-handed {
-    display: inline-block;
     max-width: 15rem; 
 }
 html {
