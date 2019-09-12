@@ -10,10 +10,9 @@ html {
     font-family: cursive;
   }
   footer{
-    background-color: red;
-    min-height: 2rem;
+    min-height: 1rem;
     text-align: center; 
-    font-size: 2rem; 
+    font-size: 1rem; 
     border-radius: 10pc;
     font-family: cursive;
   }
