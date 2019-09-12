@@ -22,12 +22,18 @@ p {
 }
 #parent {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 h2 {
     border: 1px solid black;
     border-radius: 10pc;
     padding: 5px;
+    max-width: 15rem;
+}
+#blunted-weapon{
+    max-width: 15rem;
+}
+#bladed-weapons{
     max-width: 15rem;
 }
 #one-handed {
