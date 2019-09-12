@@ -6,6 +6,7 @@ html {
     min-height: 2rem;
     text-align: center; 
     font-size: 2rem; 
+    border-radius: 10pc;
   }
   #theheader {
     min-height: 4rem;
