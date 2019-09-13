@@ -1,7 +1,5 @@
 html {
     background-color: grey;
-    font-family: cursive;
-    margin: 5px;
   }
   header {
     background-color: red;
@@ -28,13 +26,6 @@ html {
     max-width: 15rem;
     margin: auto;
 }
-footer{
-    min-height: 1rem;
-    text-align: center; 
-    font-size: 1rem; 
-    border-radius: 10pc;
-    font-family: cursive;
-  }
 #parent {
     display: grid;
     grid-gap: 5px;
