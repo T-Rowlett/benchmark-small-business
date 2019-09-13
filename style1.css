@@ -5,7 +5,7 @@ header{
     font-size: 2rem; 
     border-radius: 10pc;
     font-family: cursive;
-    border: 1px solid black;
+    border: 2px solid black;
 }
 #intro {
     display: flex;
