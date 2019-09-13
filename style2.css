@@ -45,3 +45,7 @@ footer{
     border-radius: 10pc;
     font-family: cursive;
   }
+  .contact{
+    display: inline;
+    margin: 10px;
+  }

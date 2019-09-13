@@ -59,3 +59,7 @@ h2 {
 html {
     background-color: gray;
 }
+.contact{
+    display: inline;
+    margin: 10px;
+  }
