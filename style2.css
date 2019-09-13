@@ -8,6 +8,7 @@ html {
     font-size: 2rem; 
     border-radius: 10pc;
     font-family: cursive;
+    border: 1px solid black;
   }
   h1 {
       text-align: center;

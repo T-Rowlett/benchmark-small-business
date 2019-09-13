@@ -8,6 +8,7 @@ html {
     font-size: 2rem; 
     border-radius: 10pc;
     font-family: cursive;
+    border: 1px solid black;
   }
   footer{
     min-height: 1rem;
