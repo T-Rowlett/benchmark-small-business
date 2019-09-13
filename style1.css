@@ -37,6 +37,7 @@ h2 {
     border: 1px solid black;
     border-radius: 10pc;
     padding: 5px;
+    margin: 5px;
     max-width: 15rem;
     font-family: cursive;
 }
