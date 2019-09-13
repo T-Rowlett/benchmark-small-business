@@ -20,6 +20,7 @@ html {
     min-height: 4rem;
     font-size: 3rem;
     border-radius: 10pc;
+    border: 2px solid black;
   }
   #meleeimg {
     align-items: center;
