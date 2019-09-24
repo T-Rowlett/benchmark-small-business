@@ -19,7 +19,6 @@ html {
   #theheader {
     min-height: 3rem;
     font-size: 3rem;
-    border-radius: 10pc;
     border: 2px solid black;
   }
   #meleeimg {
