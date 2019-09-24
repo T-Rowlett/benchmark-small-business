@@ -6,7 +6,6 @@ html {
     min-height: 2rem;
     text-align: center; 
     font-size: 2rem; 
-    border-radius: 10pc;
     font-family: cursive;
     border: 1px solid black;
   }
@@ -14,7 +13,6 @@ html {
     min-height: 1rem;
     text-align: center; 
     font-size: 1rem; 
-    border-radius: 10pc;
   }
   #theheader {
     min-height: 3rem;
