@@ -3,7 +3,7 @@ header{
     min-height: 2rem;
     text-align: center; 
     font-size: 2rem; 
-    border-radius: 10pc;
+    
     font-family: cursive;
     border: 2px solid black;
 }
@@ -19,7 +19,7 @@ footer{
     min-height: 1rem;
     text-align: center; 
     font-size: 1rem; 
-    border-radius: 10pc;
+
   }
 p {
     max-width: 30rem;
@@ -33,7 +33,7 @@ p {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 h2 {
-    border-radius: 10pc;
+   
     padding: 5px;
     margin: 5px;
     max-width: 15rem;

@@ -39,7 +39,6 @@ html {
   }
   button {
     font-size: 15px;
-    border-radius: 5pc;
     min-height: 2.5pc;
     border-color: red;
     background-color: lightgrey;
