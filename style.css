@@ -37,3 +37,6 @@ html {
     display: inline;
     margin: 10px;
   }
+a {
+  color: black;
+}
