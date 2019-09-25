@@ -44,8 +44,3 @@ html {
     border-color: red;
     background-color: lightgrey;
   }
-  #parent {
-    display: grid;
-    grid-gap: 5px;
-    grid-template-columns: 1fr 1fr 1fr;
-}
