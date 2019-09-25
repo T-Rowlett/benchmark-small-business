@@ -37,10 +37,3 @@ html {
     display: inline;
     margin: 10px;
   }
-  button {
-    font-size: 15px;
-    border-radius: 10pc;
-    min-height: 2.5pc;
-    border-color: red;
-    background-color: lightgrey;
-  }
