@@ -6,7 +6,6 @@ html {
     min-height: 2rem;
     text-align: center; 
     font-size: 2rem; 
-
     font-family: cursive;
     border: 2px solid black;
     margin: 5px;
@@ -37,7 +36,6 @@ footer{
     min-height: 1rem;
     text-align: center; 
     font-size: 1rem; 
-
   }
   .contact{
     display: inline;

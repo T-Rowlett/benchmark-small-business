@@ -3,9 +3,9 @@ header{
     min-height: 2rem;
     text-align: center; 
     font-size: 2rem; 
-    
     font-family: cursive;
     border: 2px solid black;
+    margin: 5px
 }
 #intro {
     display: flex;
@@ -19,7 +19,6 @@ footer{
     min-height: 1rem;
     text-align: center; 
     font-size: 1rem; 
-
   }
 p {
     max-width: 30rem;
@@ -33,7 +32,6 @@ p {
     grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 h2 {
-   
     padding: 5px;
     margin: 5px;
     max-width: 15rem;
