@@ -37,20 +37,8 @@ h2 {
     max-width: 15rem;
     font-family: cursive;
 }
-#blunted-weapon{
+.Content{
     max-width: 15rem;
-    text-align: center;
-}
-#bladed-weapons{
-    max-width: 15rem;
-    text-align: center;
-}
-#one-handed {
-    max-width: 15rem;
-    text-align: center;
-}
-#two-handed {
-    max-width: 15rem; 
     text-align: center;
 }
 html {
