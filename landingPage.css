@@ -40,3 +40,6 @@ html {
 a {
   color: black;
 }
+a:hover {
+  color: whitesmoke;
+}

@@ -47,3 +47,9 @@ footer{
     border-color: red;
     background-color: lightgrey;
   }
+  a {
+    color: black;
+  }
+  a:hover {
+    color: whitesmoke;
+  }
