@@ -7,6 +7,9 @@ header{
     border: 2px solid black;
     margin: 5px
 }
+.Content {
+  border: 2.5px solid black;
+}
 #intro {
     display: flex;
     flex-wrap: wrap;
@@ -67,3 +70,6 @@ html {
   a:hover {
     color: whitesmoke;
   }
+   #meleeimg {
+    max-width: 100%;
+  } 

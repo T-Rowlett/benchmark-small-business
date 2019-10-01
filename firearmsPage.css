@@ -14,12 +14,28 @@ html {
       text-align: center;
       font-family: cursive;
   }
-  .imgage{
-      max-width: 15rem;
+  .image{
+      max-width: 100%;
   }
 .single-shot{
+    border: solid 2.5px black;
     max-width: 15rem;
     margin: auto;
+}
+#intro {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 1rem auto; 
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+p {
+  max-width: 30rem;
+  align-items: center;
+  justify-content: center;
+  margin: 1rem;
+  text-align: center;
 }
 #parent {
     display: grid;
